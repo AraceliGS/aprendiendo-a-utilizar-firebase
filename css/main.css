@@ -1,0 +1,32 @@
+body {
+  padding: 1em 2em;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  border: 1px solid black;
+  margin: 8px;
+}
+
+.td:nth-of-type(1) {
+  background-color: sandybrown;
+}
+
+.td {
+  padding: 1em 2em;
+}
+
+.list-container {
+  margin-top: 1em;
+}
+
+.list-container ul {
+  list-style: none;
+}
+
